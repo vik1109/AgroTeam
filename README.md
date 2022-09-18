@@ -7,3 +7,4 @@ AgroHack 2022
 - damp-v1.ipynb - Модель 2
 - damp.ipynb - Модель 1
 - statistic.ipynb - работа со статистикой
+- Parents.ipynb - базовый осмотр файла Предки.csv
